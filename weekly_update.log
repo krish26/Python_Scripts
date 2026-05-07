@@ -1,0 +1,18 @@
+2026-05-07 14:45:43  INFO      === Weekly update started ===
+2026-05-07 14:45:43  INFO      Fetching 'Frontend' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:44  INFO        'Frontend' \u2192 1 jobs
+2026-05-07 14:45:44  INFO      Fetching 'Backend' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:45  INFO        'Backend' \u2192 1 jobs
+2026-05-07 14:45:45  INFO      Fetching 'AI' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:46  INFO        'AI' \u2192 7 jobs
+2026-05-07 14:45:46  INFO      Fetching 'DevOps' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:47  INFO        'DevOps' \u2192 0 jobs
+2026-05-07 14:45:47  INFO      Fetching 'Cloud' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:48  INFO        'Cloud' \u2192 0 jobs
+2026-05-07 14:45:48  INFO      Fetching 'IT-support' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:49  INFO        'IT-support' \u2192 0 jobs
+2026-05-07 14:45:50  INFO      Fetching 'Cybersecurity' (2026-04-30T00:00:00 \u2192 2026-05-07T23:59:59)
+2026-05-07 14:45:50  INFO        'Cybersecurity' \u2192 0 jobs
+2026-05-07 14:45:51  INFO      Appended 9 rows to C:\Users\agasy\Python_Scripts\job_trends.csv
+2026-05-07 14:45:51  WARNING   SMTP_PASS not set — printing email to stdout instead
+2026-05-07 14:45:51  INFO      === Weekly update done. Total new rows: 9 ===
